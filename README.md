@@ -1,1 +1,1 @@
-# trafic_light
+# traffic_light
